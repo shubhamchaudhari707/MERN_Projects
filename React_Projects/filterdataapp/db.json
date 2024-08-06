@@ -1,0 +1,49 @@
+{
+    "users": [
+      {
+        "id": "2",
+        "name": "James Williams",
+        "email": "jameswilly@gmail.com",
+        "phone": "08111111111",
+        "address":"UK",
+        "category": "smartphones",
+        "status":"active"
+      },
+      {
+        "id": "3",
+        "name": "Ahmed Ali",
+        "email": "ahmedali012@gmail.com",
+        "phone": "09022222222",
+        "address":"UK",
+        "category": "smartphones",
+        "status":"active"
+      },
+      {
+        "id": "4",
+        "name": "Grace Funsho",
+        "email": "gracefunsho@gmail.com",
+        "phone": "09033333333",
+        "address":"UK",
+        "category": "mobiles",
+        "status":"active"
+      },
+      {
+        "id": "5",
+        "name": "shubham",
+        "email": "shubham@gmail.com",
+        "phone": "123455668900",
+        "address":"UK",
+        "category": "laptop",
+        "status":"Inactive"
+      },
+      {
+        "id": "6",
+        "name": "shubham",
+        "email": "shubham@gmail.com",
+        "phone": "909877665",
+        "address":"UK",
+        "category": "smartphones",
+        "status":"Inactive"
+      }
+    ]
+  }

@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "id": "2",
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "phone": "08111111111",
+      "category": "smartphones"
+    },
+    {
+      "id": "3",
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "phone": "09022222222",
+      "category": "smartphones"
+    },
+    {
+      "id": "4",
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "phone": "09033333333",
+      "category": "mobiles"
+    },
+    {
+      "id": "5daf",
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "phone": "123455668900",
+      "category": "laptop"
+    },
+    {
+      "id": "cae4",
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "phone": "909877665",
+      "category": "smartphones"
+    }
+  ]
+}
